@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"main","c":"MusicCollection","l":"albumOptions(Album)","u":"albumOptions(main.Album)"},{"p":"main","c":"MusicCollection","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"main","c":"MusicCollection","l":"MusicCollection()","u":"%3Cinit%3E()"},{"p":"main","c":"MusicCollection","l":"sc"}];updateSearchResults();
